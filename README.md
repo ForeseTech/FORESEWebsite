@@ -1,7 +1,7 @@
 # FORESE Website
 This is the official GitHub page for the FORESE website. All backups are stored here.
 
-## Adding members to the website
+### Adding members to the website
 
 1. Start off by downloading a FTP client, such as Cyberduck or Filezilla. Cyberduck is preferred because it's much more simpler to understand if you're a beginner. [Here's a link.](https://cyberduck.io)
 2. Launch the application once it's been installed properly. Open up a new connection. When prompted for the details, enter the following.
@@ -45,3 +45,12 @@ Don't change anything else.
 11. Just to make sure you've done it perfectly, navigate to the 'images' tab in the FORESE website and see if your changes have been applied. Scroll down though, it'll be all the way at the bottom. If it's not, try saving the file again. If this doesn't work or if the page seems to be not working properly, give me a call.
 
 If you guys face any problems or have any queries, call me. 
+
+## Website Contributors
+* Arjun Aravind (Design & Development)
+* Aravind Balakrishnan (Development)
+* Kaushik G (Development)
+* Mrudula Mahesh (Development)
+* Vyas (Development)
+* Sowmya Kulesh (Development)
+* Vignesh Shankar (Development)
