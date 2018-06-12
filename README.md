@@ -1,7 +1,7 @@
 # FORESE Website
 This is the official GitHub page for the FORESE website. All backups are stored here.
 
-## Editing The Website
+## Adding members to the website
 
 1. Start off by downloading a FTP client, such as Cyberduck or Filezilla. Cyberduck is preferred because it's much more simpler to understand if you're a beginner. [Here's a link.](https://cyberduck.io)
 2. Launch the application once it's been installed properly. Open up a new connection. When prompted for the details, enter the following.
