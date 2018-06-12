@@ -40,6 +40,7 @@ These are the HTML 'divs' (or divisions) which make up each particular entry in 
 Don't change anything else.
 
 9. Now, you would have noticed that you are supposed to provide the image name in the second line of each 'div'. However, for this, shouldn't we upload the photo first? So, go to the Cyberduck window with all the files and folders. There should be a folder called '1st'. Go into this folder and copy-paste the images of the 5 students that you want to add into the page.
+10. Make sure the photos have a one-word name such as "rajini.jpg" or "kamal.jpg".
 10. Go back to the ```index.html``` file, add 5 entries with the corresponding information and SAVE IT. Make sure you save it, guys.
 11. Just to make sure you've done it perfectly, navigate to the 'images' tab in the FORESE website and see if your changes have been applied. Scroll down though, it'll be all the way at the bottom. If it's not, try saving the file again. If this doesn't work or if the page seems to be not working properly, give me a call.
 
