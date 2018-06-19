@@ -50,7 +50,7 @@ If you guys face any problems or have any queries, call me.
 * Arjun Aravind (Design & Development)
 * Aravind Balakrishnan (Development)
 * Kaushik G (Development)
-* Mrudula Mahesh (Development)
+* Mridula Mahesh (Development)
 * Vyas (Development)
 * Sowmya Kulesh (Development)
 * Vignesh Shankar (Development)
